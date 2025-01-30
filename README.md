@@ -52,4 +52,4 @@ Os algoritmos SHA geram um valor de hash a partir de uma string de entrada. O ha
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/algoritmos-sha.git
+   git clone https://github.com/enzokaua/algorith-generate-SHA.git
